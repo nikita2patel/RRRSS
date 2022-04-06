@@ -1,0 +1,10 @@
+export const Get_Data = 'Get_Data';
+export const Get_Data_s = 'Get_Data_s';
+export const Delt_Data = 'Delt_Data';
+export const Delt_Data_s =  'Delt_Data_s';
+export const Clear_Data = 'Clear_Data';
+export const Clear_Data_s= 'Clear_Data_s'
+export const Save_Data = 'Save_Data';
+export const Save_Data_s = 'Save_Data_s';
+export const Edit_Data = 'Edit_Data';
+export const Edit_Data_s = 'Edit_Data_s';
